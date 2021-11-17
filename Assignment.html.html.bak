@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+   <footer>Hello World</footer>
+   <a href="https://www.learncodinganywhere.com/"> Check out The Tech Academy!</a>
+
+   <title>Assigment</title> 
+
+   <body>
+   
+   <p>Assigment</p>
+   
+   <h1>Assigment</h1>
+   
+   <h3>Assigment</h3>
+   
+   <h6>Assigment</h6>
+   
+   <main>hi</main>
+   
+   <img src="images/ta1.png" width="185px"/>
+   
+   <a href="https://m.media-amazon.com/images/I/814AeozzWYL._AC_SL1500_.jpg">dog image</a>
+   
+   <blockquote>Newer give up</blockquote>
+   
+  <iframe width="707" height="398" src="https://www.youtube.com/embed/BwknA6aGqvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+	
+   </body>
+
+
+
+</html>
