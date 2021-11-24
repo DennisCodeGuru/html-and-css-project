@@ -1,0 +1,45 @@
+<DOCTYPE html>
+<html>
+    <script src="Basic_JavaScript_1.js"></script>
+    <font color="green">GREEN</font>
+    <font color="#299438">GREEN</font>
+
+    <img src="images/ta1.png" width="185px" alt="LOGO"/>
+
+<font face="Arial">This text is written in Arial font!</font>
+
+<p>
+    <font color="orange" face="Calibri">
+	    This orange text is written in Calibri.
+	</font>
+</p>
+
+<p>
+    <font color="purple" face="Roboto" size="7">
+	    This purple text is written in Roboto.
+	</font>
+</p>
+
+<p>
+    <font color="orange" face="Calibri" size="2">
+	    This orange text is written in Calibri.
+	</font>
+</p>
+
+<p>
+    <font color="purple" face="Roboto" size="4">
+	    This purple text is written in Roboto.
+	</font>
+</p>
+
+<p>
+    <font color="orange" face="Calibri" size="6">
+	    This orange text is written in Calibri.
+	</font>
+</p>
+
+<p><b>Text Bold, </b><i>this is italicized </i>and <u>this is underlined</u></p>
+
+
+
+</html>
